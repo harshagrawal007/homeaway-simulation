@@ -1,0 +1,7 @@
+.bg-img {
+  /* The image used */
+  background-image: url("//csvcus.homeaway.com/rsrcs/stab-cms-resources/0.10.30/images/homepage/jumbotron/ptaHpNextHeroImage/large.jpg");
+  position: relative;
+  background-size: cover;
+  min-height: 700px;
+}

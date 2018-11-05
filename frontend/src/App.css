@@ -1,0 +1,91 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.myseacrhrow{
+  padding-top:300px;
+  margin-top:300px;
+  }
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.propertydetails-container{
+  outline-style:solid;
+  margin-top:30px;
+}
+
+.myseacrhrow{
+
+  padding-top:100px;
+  margin-top:100px;
+  }
+
+.homecontainer{
+  display:block;
+}
+.right-container{
+  float:right;
+}
+.lyp{
+  float:right;
+  
+}
+.header-meanu{
+  float:right;
+}
+.logo-image{
+float:right;
+display:block;
+}
+.banner{
+  float:left;
+  width:250px;
+  
+}
+
+.profile-image{
+  margin-right:auto;
+  margin-left:auto;
+  display:block;
+}
+
+
+.login-container{
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    display: block;
+    overflow: visible;
+}
+.username{
+  display:block;
+}
+.signup-container{
+  float:middle;
+  text-align: center;
+  display: block;
+  overflow: visible;
+  outline-style:solid;
+  margin:50px;
+}
